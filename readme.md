@@ -24,8 +24,8 @@ Follow these steps to get the application up and running:
 (Optional) If you have Git installed, clone the repository to your local machine. Alternatively, you can download the source code directly.
 
 ```bash
-git clone [https://github.com/dawei7/ml_zoomcamp_capstone2]
-cd [ml_zoomcamp_capstone2]
+git clone https://github.com/dawei7/ml_zoomcamp_capstone2
+cd ml_zoomcamp_capstone2
 ```
 
 ### Step 2: Build the Docker Image
